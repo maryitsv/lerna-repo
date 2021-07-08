@@ -1,10 +1,11 @@
 {
   "name": "modulob",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"just to show the test module b\""
+    "test": "echo \"just to show the test module b\"",
+    "preversion": "echo \"something before all the magic\""
   },
   "author": "",
   "license": "ISC"
