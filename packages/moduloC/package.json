@@ -1,15 +1,15 @@
 {
   "name": "moduloc",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "preversion": "echo \"something before all the magic\""
+    "preversion": "echo 'something before all the magic'"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moduloa": "^2.1.0",
-    "modulob": "^2.1.0"
+    "moduloa": "^2.2.0",
+    "modulob": "^2.2.0"
   }
 }

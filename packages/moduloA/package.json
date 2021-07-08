@@ -1,11 +1,11 @@
 {
   "name": "moduloa",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"just to show the test module a\"",
-    "preversion": "echo \"something before all the magic\""
+    "preversion": "echo 'something before all the magic'"
   },
   "author": "",
   "license": "ISC"
