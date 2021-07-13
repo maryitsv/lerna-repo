@@ -4,5 +4,12 @@
   "description": "",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "test": "echo 'just to show the test module a'",
+    "preversion": "echo 'something before all the magic'"
+  },
+  "dependencies": {
+    "jasmine": "^3.8.0"
+  }
 }

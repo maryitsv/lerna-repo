@@ -1,6 +1,11 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "test":"lerna run test",
+    "preversion": "lerna run preversion",
+    "postversion": "lerna run postversion"
+  },
   "devDependencies": {
     "lerna": "^4.0.0"
   }
