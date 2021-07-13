@@ -1,1 +1,1 @@
-module.exports = 'Modulo A con un cambio';
+module.exports = 'Modulo A con un cambio por segunda vez';
