@@ -1,13 +1,13 @@
 {
   "name": "moduloc",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "",
   "main": "index.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
     "jasmine": "^3.8.0",
-    "moduloa": "^2.6.1-alpha.0",
-    "modulob": "^2.7.0"
+    "moduloa": "^2.7.0",
+    "modulob": "^2.8.0"
   }
 }
