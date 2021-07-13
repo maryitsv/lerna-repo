@@ -1,12 +1,12 @@
 {
   "name": "moduloc",
-  "version": "2.6.0",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moduloa": "^2.6.0",
+    "moduloa": "^2.6.1-alpha.0",
     "modulob": "^2.6.0"
   }
 }
